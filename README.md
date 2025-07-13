@@ -30,17 +30,18 @@
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-8E44AD?style=flat)
-![EF Core](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,azure,sql,mysql,oracle,git,github,gitlab,bitbucket,jira,vscode,linux,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,react,nextjs,nodejs,express,firebase,docker" />
+</p>
+
+Other tools and platforms I work with:
+- 🧩 **MudBlazor** for modern .NET UI
+- 🔄 **SAP** integrations for enterprise environments
+- 🧪 **xUnit**, **Serilog**, **Newtonsoft.Json**
+- 🧠 Dev practices: Clean Code, SOLID, DDD, TDD
 
 ---
 
@@ -64,4 +65,3 @@
 ---
 
 > *#justDoIt — Always striving for excellence through simplicity and discipline.*
-
