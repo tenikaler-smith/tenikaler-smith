@@ -56,7 +56,7 @@ Other tools and platforms I work with:
 
 ## 📫 Let's Connect
 
-📧 Email: tsmithj@sonda.com  
+📧 Email: tenismith2339@gmail.com  
 🌎 Location: Panamá Oeste, La Chorrera  
 🐦 Twitter: [@tenikaler](https://twitter.com/tenikaler)  
 💼 LinkedIn: [linkedin.com/in/tenikaler-smith](https://www.linkedin.com/in/tenikaler-smith)  
